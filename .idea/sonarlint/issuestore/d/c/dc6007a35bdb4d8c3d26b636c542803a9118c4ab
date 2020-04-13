@@ -1,0 +1,7 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄ¹…üÿÿÿÿ8İÕàú–.
+o	java:S116"NRename this field "SYN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÈ¦êÿÿÿÿÿ8İÕàú–.
+j	java:S116"NRename this field "ACK" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¢âØ8İÕàú–.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄ¹…üÿÿÿÿ8İÕàú–.
+o	java:S116"NRename this field "FIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íäñ¡ÿÿÿÿÿ8İÕàú–.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÄ¹…üÿÿÿÿ8İÕàú–.
